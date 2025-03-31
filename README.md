@@ -7,7 +7,7 @@ SOFTWARE ENGINEER
 I am a software engineer with needed skills and eager to learn and to grow in my career.
 
 * 🌍  I'm based in Kigali,Rwanda
-* ✉️  You can contact me at [iragenashemac@gmail.com /+250787570686](mailto:iragenashemac@gmail.com /+250787570686)
+* ✉️  You can contact me at [iragenashemac@gmail.com](mailto:iragenashemac@gmail.com)
 * 🧠  I'm learning Software Engineering
 * 🤝  I'm open to collaborating on interesting projects
 
