@@ -11,8 +11,8 @@ I am a software engineer with needed skills and eager to learn and to grow in my
 * 🧠  I'm learning Software Engineering
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.github.com/https://github.com/Iragenashemac" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/https://github.com/Iragenashemac?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+<a href="https://www.github.com/Iragenashemac" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Iragenashemac?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 ### Skills
 
@@ -24,16 +24,16 @@ src="https://img.shields.io/github/followers/https://github.com/Iragenashemac?lo
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/https://github.com/Iragenashemac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Iragenashemac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/https://github.com/Iragenashemac"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Iragenashemac&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="https://github.com/Iragenashemac's GitHub stats" /></a>
+<a href="http://www.github.com/Iragenashemac"><img src="https://github-readme-stats.vercel.app/api?username=Iragenashemac&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Iragenashemac's GitHub stats" /></a>
 
-<a href="http://www.github.com/https://github.com/Iragenashemac"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Iragenashemac&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Iragenashemac"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Iragenashemac&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/https://github.com/Iragenashemac"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https://github.com/Iragenashemac&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Iragenashemac"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Iragenashemac&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/https://github.com/Iragenashemac" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Iragenashemac&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Iragenashemac" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iragenashemac&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
