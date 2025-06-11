@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 SOFTWARE ENGINEER
 -----------------
 
-🚀 Software Engineer | Cybersecurity Learner | Problem Solver | Tech Enthusiast Passionate about building scalable, efficient, and secure applications. Experienced in backend development, databases, and system design. Love solving complex problems with clean, maintainable code. Always learning, always innovating!
+🚀 Software Engineer | Problem Solver | Tech Enthusiast Passionate about building scalable, efficient, and secure applications. Experienced in fullstack development, databases, and system design. Love solving complex problems with clean, maintainable code. Always learning, always innovating!
 
 * 🌍  I'm based in Kigali,Rwanda
 * ✉️  You can contact me at [iragenashemac@gmail.com](mailto:iragenashemac@gmail.com)
