@@ -3,9 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 SOFTWARE ENGINEER
 -----------------
-
 🚀 Software Engineer | Fullstack Developer | Unity Game Developer | Tech & CTF Enthusiast
-Passionate about designing scalable, efficient, and secure applications. I enjoy solving complex technical challenges with clean, maintainable code, and I continuously seek opportunities to learn, innovate, and push the boundaries of what technology can do.
+Passionate about building scalable, secure applications and solving complex problems with clean, maintainable code. Always learning and innovating.
 
 * 🌍  I'm based in Kigali,Rwanda
 * ✉️  You can contact me at [iragenashemac@gmail.com](mailto:iragenashemac@gmail.com)
