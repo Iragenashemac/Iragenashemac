@@ -39,12 +39,12 @@ src="https://img.shields.io/github/followers/Iragenashemac?logo=github&style=for
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/Iragenashemac">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iragenashemac" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iragenashemac&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
 </a>
 
 <!-- GitHub Activity Graph -->
 <a href="https://github.com/Iragenashemac">
-  <img src="https://github-readme-stats-seven-plum-30.vercel.app/api/activity-graph?username=Iragenashemac&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&utm_source=chatgpt.com" alt="GitHub Commits Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iragenashemac&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 
 <!-- Top Languages -->
