@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is IRAGENA SHEMA Cedrick
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is IRAGENA SHEMA Cedrick
 ===========================================================================================================================================
 
 SOFTWARE ENGINEER
@@ -6,13 +6,15 @@ SOFTWARE ENGINEER
 🚀 Software Engineer | Fullstack Developer | Unity Game Developer | Tech & CTF Enthusiast<br>
 Passionate about building scalable, secure applications and solving complex problems with clean, maintainable code. Always learning and innovating.  
 
-* 🌍  I'm based in Kigali,Rwanda  
+* 🌍  I'm based in Kigali, Rwanda  
 * ✉️  You can contact me at [iragenashemac@gmail.com](mailto:iragenashemac@gmail.com)  
 * 🧠  I'm learning Software Engineering  
 * 🤝  I'm open to collaborating on interesting projects  
 * ⚡  ⚙️ Engineering ideas into reality, with a little bit of magic and a lot of logic.  
 
-<a href="https://www.github.com/Iragenashemac" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Iragenashemac?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/Iragenashemac" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/Iragenashemac?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
 ### Skills
 <p align="left">
@@ -40,7 +42,6 @@ Passionate about building scalable, secure applications and solving complex prob
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<!-- Add other skills as needed -->
 </p>
 
 ### Socials
@@ -51,12 +52,17 @@ Passionate about building scalable, secure applications and solving complex prob
 <a href="https://www.x.com/IragenaShemac" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
+### GitHub Stats & Graphs
 <b>My GitHub Stats</b>  
-<a href="https://github.com/Iragenashemac"><img src="https://github-readme-stats-seven-plum-30.vercel.app/api?username=Iragenashemac&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Iragenashemac's GitHub stats" /></a>  
-<a href="http://www.github.com/Iragenashemac"><img src="https://github-readme-stats-seven-plum-30.vercel.app/api?user=Iragenashemac&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
 
-https://github-readme-stats-qmzqjacie-shemacs-projects.vercel.app/api/activity-graph?username=Iragenashemac&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph
+<a href="https://github.com/Iragenashemac">
+  <img src="https://github-readme-stats-qmzqjacie-shemacs-projects.vercel.app/api?username=Iragenashemac&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+</a>  
 
+<a href="https://github.com/Iragenashemac">
+  <img src="https://github-readme-stats-qmzqjacie-shemacs-projects.vercel.app/api/activity-graph?username=Iragenashemac&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>  
 
-<a href="https://github.com/Iragenashemac" align="left"><img src="https://github-readme-stats-seven-plum-30.vercel.app/api/top-langs/?username=Iragenashemac&langs_count=200&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1800&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Iragenashemac">
+  <img src="https://github-readme-stats-qmzqjacie-shemacs-projects.vercel.app/api/top-langs/?username=Iragenashemac&langs_count=200&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1800&custom_title=Top%20Languages" alt="Top Languages" />
+</a>  
