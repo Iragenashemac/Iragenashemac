@@ -28,24 +28,22 @@ src="https://img.shields.io/github/followers/Iragenashemac?logo=github&style=for
 
 <p align="left"> <a href="https://discord.com/users/shemac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Iragenashemac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/iragena-shema-cedrick-03a96b31b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/IragenaShemac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Badges  
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b>  
 
 <a href="https://github.com/Iragenashemac">
   <img src="https://github-readme-stats-qmzqjacie-shemacs-projects.vercel.app/api?username=Iragenashemac&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Iragenashemac's GitHub stats" />
-</a>
+</a>  
 
-
-<a href="http://www.github.com/Iragenashemac"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Iragenashemac&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Iragenashemac">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iragenashemac&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>  
 
 <a href="http://www.github.com/Iragenashemac">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iragenashemac&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-
+</a>  
 
 <a href="https://github.com/Iragenashemac" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iragenashemac&langs_count=200&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1800&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats-qmzqjacie-shemacs-projects.vercel.app/api/top-langs/?username=Iragenashemac&langs_count=200&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1800&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
-
-
