@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 SOFTWARE ENGINEER
 -----------------
-🚀 Software Engineer | Fullstack Developer | Unity Game Developer | Cloud Engineer & CTF Enthusiast<br>
+🚀 Software Engineer | Fullstack Developer | Unity Game Developer | Aspiring Cloud Engineer | CTF and Cyber security Enthusiast<br>
 Passionate about building scalable, secure applications and solving complex problems with clean, maintainable code. Always learning and innovating.
 
 
